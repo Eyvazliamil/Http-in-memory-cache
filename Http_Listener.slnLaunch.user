@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Http_Listener\\Http_Listener.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Http_Client\\Http_Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

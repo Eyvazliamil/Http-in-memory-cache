@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Http_Client/Http_Client.csproj" />
+  <Project Path="Http_Listener/Http_Listener.csproj" />
+  <Project Path="SharedParts/SharedParts.csproj" />
+</Solution>
